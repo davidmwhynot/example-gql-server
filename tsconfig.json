@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"target": "esnext",
+		"outDir": "dist",
+		"sourceMap": true
+	},
+	"include": ["src/**/*.ts"],
+	"exclude": ["node_modules"]
+}
